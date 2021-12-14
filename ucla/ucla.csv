@@ -1,3 +1,18 @@
+Name,Interests
+Xiang Anthony Chen,Human-computer interaction; sensing and interaction techniques; intelligent user interfaces; computational design and fabrication
+Ankur Mehta,Printable robotics; Rapid design and fabrication; Controls algorithms; Wireless sensor networks
+Majid Sarrafzadeh,Embedded systems; health analytics; biomedical systems; and algorithm design
+Stefano Soatto,Computer vision; machine learning; robotics
+Yang Zhang,Human-computer interaction; sensing and interaction techniques; Internet of Things (IoT); digital health; accessibility
+Lei He,Artificial Intelligence (AI) and Internet of Things (IoT) for Education; Health; Transportation; and Power and Water Sustainability; Programmable Logic (FPGA); Re-Configurable Computing; AI-on-A-Chip; Neuromorphic Computing; and Quantum Computing; Modeling; Simulation and Validation for VLSI Circuits; Software; and IoT Systems
+Achuta Kadambi,Computational Imaging; Computer Vision; Machine Learning; Robotics; Medical Devices
+Jonathan Kao,Neural prostheses; brain-machine interfaces; computational and systems neuroscience; neural signal processing; machine learning; dynamical systems; recurrent neural networks; deep learning
+Wentai Liu,Neural prosthesis; bioelectronics; implantable microelectronics; high-speed transceiver design (wired and wireless); microelectronic sensors; timing/clock optimization; on-chip Interconnects; computer vision/image processing
+Asad M. Madni,Intelligent sensors; systems and instrumentation; wireless sensor networks; signal processing; and MEMS; applications for automotive safety; aerospace; radar; electronic warfare; and US combat readiness
+Aydogan Ozcan,Computational Imaging; Deep Learning Optics; Microscopy; Holography; Sensing; Biophotonics
+Ali H. Sayed,Adaptation and learning; statistical signal processing; estimation and filtering theories; signal processing for communications; distributed processing; bio-inspired networks; system theory
+Lieven Vandenberghe,Engineering optimization; system theory and control; signal processing; machine learning
+Lin F. Yang,Machine Learning; Reinforcement Learning; Optimization; Big-data Algorithms; Control
 Asad A. Abidi,High-performance analog electronics; device modeling
 Clarice D. Aiello,Quantum sensing; Spin physics in “living sensors”; Bioimaging
 Abeer Alwan,Digital speech processing; noise robust speech recognition; models of speech production and perception
@@ -9,7 +24,6 @@ Danijela Cabric,Wireless communications system design; machine learning for wire
 Robert N. Candler,MEMS and nanoscale devices; fundamental limitations of sensors; micromagnetic devices for advanced light sources; biological and chemical sensing
 Sergio Carbajo,Ultrafast photon sciences and light-matter interactions; including quantum optics; ultrafast and nonlinear optics; and structured photonics; molecular dynamics; and particle accelerators and X-ray free-electron lasers
 M. C. Frank Chang,High-speed semiconductors devices; integrated circuits for digital; analog; microwave; mm-wave terahertz systems; RF/wireless interconnects
-Xiang Anthony Chen,Human-computer interaction; sensing and interaction techniques; intelligent user interfaces; computational design and fabrication
 Panagiotis Christofides,Advanced materials processing; process modeling; dynamics and control; applied mathematics; desalination and water treatment
 Jason Cong,Computer system architecture;energy-efficient computing; reconfigurable computing; electronic design automation; fault-tolerant design of VLSI systems; design for nanotechnologies; design and analysis of algorithms
 Suhas N. Diggavi,Information theory; wireless networks; cooperative information flow over wireless networks; network data compression; network secrecy; large-scale data analysis algorithms
@@ -22,28 +36,21 @@ Bahman Gharesifard,Systems and controls; network optimization; distributed decis
 Dan M. Goebel,Electric propulsion; thermionic emission; microwaves; plasma-materials interactions; high voltage
 Mark Gyure,Quantum Science and Engineering
 Puneet Gupta,Design-technology co-optimization; physical design; variability and reliability aware computer architectures
-Lei He,Artificial Intelligence (AI) and Internet of Things (IoT) for Education; Health; Transportation; and Power and Water Sustainability; Programmable Logic (FPGA); Re-Configurable Computing; AI-on-A-Chip; Neuromorphic Computing; and Quantum Computing; Modeling; Simulation and Validation for VLSI Circuits; Software; and IoT Systems
 Diana L. Huffaker,Solid-state nanotechnology; plasmonically-coupled processes; optoelectronic devices; solar cell; si photonics; novel materials
 Subramanian S. Iyer,System Scaling Technology; advanced packaging and 3D integration; technologies and techniques for the memory subsystem integration and neuromorphi computing
 Stephen E. Jacobsen,Mathematical programming with emphasis on non-convex and NP-hard problems andthe application of the latter to engineering and engineering/economic systems
 Bahram Jalali,Silicon Photonics; Cell imaging and screening; Physics-inspired Algorithms; Nonlinear Dynamics; Artificial Intelligence
 Mona Jarrahi,Terahertz/millimeter-wave electronics and optoelectronics; microwave photonics; imaging and spectroscopy systems
 Chan J. Joshi,Laser fusion; laser acceleration of particles; nonlinear optics; high-power lasers; plasma physics
-Achuta Kadambi,Computational Imaging; Computer Vision; Machine Learning; Robotics; Medical Devices
 William J. Kaiser,Biomedical informatics; embedded systems; biomedical devices
-Jonathan Kao,Neural prostheses; brain-machine interfaces; computational and systems neuroscience; neural signal processing; machine learning; dynamical systems; recurrent neural networks; deep learning
 Pedram Khalili,Nanoelectronics; spintronics; nano-magnetism; nonvolatile memory and logic; and microwave magnetics
 Alan J. Laub,Numerical linear algebra; high-performance computing
 Jia-Ming Liu,Nonlinear optics; ultrafast optics; laser dynamics and chaos; semiconductor lasers; fiber lasers; optoelectronics; photonics; microwave photonics; graphene photonics; nanophotonics
-Wentai Liu,Neural prosthesis; bioelectronics; implantable microelectronics; high-speed transceiver design (wired and wireless); microelectronic sensors; timing/clock optimization; on-chip Interconnects; computer vision/image processing
-Asad M. Madni,Intelligent sensors; systems and instrumentation; wireless sensor networks; signal processing; and MEMS; applications for automotive safety; aerospace; radar; electronic warfare; and US combat readiness
 Dejan Markovic,Integrated circuits for emerging radio and healthcare systems; energy-efficient flexible digital integrated circuits; circuit and architecture design with post-CMOS devices; optimization methods and CAD flows
-Ankur Mehta,Printable robotics; Rapid design and fabrication; Controls algorithms; Wireless sensor networks
 Shervin Moloudi,Analog and RF integrated electronics; high speed data converters; and telecommunication circuits
 Warren B. Mori,Plasma physics; high energy density plasma science; high performance computing
 Ali Mosleh,Reliability engineering; physics of failure modeling and system life prediction; resilient systems design; prognostics and health monitoring; hybrid systems simulation; theories and techniques for risk and safety analysis
 Stanley Osher,Level set methods for computing moving fronts involving topological changes; hyperbolic conservation laws and Hamilton-Jacobi equations; optimization related to sparsity
-Aydogan Ozcan,Computational Imaging; Deep Learning Optics; Microscopy; Holography; Sensing; Biophotonics
 Sudhakar Pamarti,Analog; mixed signal and RF IC design; signal processing
 Gregory Pottie,Communications/telecommunications; biomedical informatics; sensor networks
 Yahya Rahmat-Samii,Electromagnetics; satellite communication antennas; personal communication antennas including human interaction; biotelemetry and RFID applications; antennas for remote sensing and radio astronomy applications
@@ -52,10 +59,7 @@ Yair Rivenson,Bioimaging; Computational Imaging; Photonics
 Vwani P. Roychowdhury,Communications/telecommunications; quantum computation and information processing; embedded systems; adaptive and learning algorithms; combinatorics and complexity; biomedical informatics
 Izhak Rubin,Communications/telecommunications; computer networks; multimedia IP networks; UAV/UGV-aided networks; integrated system and network management; C4ISR systems and networks; optical networks; network simulations and analysis
 Henry Samueli,VLSI implementation of signal processing and digital communication systems; high-speed digital integrated circuits; digital filter design
-Majid Sarrafzadeh,Embedded systems; health analytics; biomedical systems; and algorithm design
-Ali H. Sayed,Adaptation and learning; statistical signal processing; estimation and filtering theories; signal processing for communications; distributed processing; bio-inspired networks; system theory
 Nader Sehatbakhsh,Circuits and Embedded Systems
-Stefano Soatto,Computer vision; machine learning; robotics
 Jason Speyer,Stochastic and deterministic optimal control and estimation with application to aerospace systems; guidance; flight control; and flight mechanics
 Mani B. Srivastava,Embedded software; ubiquitous and mobile computing; human-cyber-physical systems; security and privacy; mobile health; internet of things; energy-aware computing
 Oscar M. Stafsudd; Jr.,Quantum electronics; solid state lasers and laser media; infrared detectors (semiconductor and pyroelectric); opto-electronics; terahertz devices and systems; crystal growth; photovoltaics; optical applications for medical use
@@ -64,7 +68,6 @@ Paulo Tabuada,Cyber-physical systems; cyber-physical systems security; control s
 Zachary Taylor,THz medical imaging and sensing; biomedical optics and biophotonics; submillimeter wave and THz quasioptics; diagnostic medical imaging
 King-Ning Tu,3D IC packaging and joule heating; metal-silicon interfaces; electromigration; pb-free solder joints
 Mihaela van der Schaar,Game theory; network science; social networks; complex systems; machine learning; online learning; stream mining and Big data; medical informatics; networks
-Lieven Vandenberghe,Engineering optimization; system theory and control; signal processing; machine learning
 Ingrid Verbauwhede,Embedded security; security of cyber physical systems; efficient and attack resistant implementations of cryptography; design methods
 John D. Villasenor,Electronics supply chain; digital media; technology and public policy
 Kang L. Wang,Nanoelectronics; spintronics and nanomagnetics; non-volatile electronics and low dissipation devices; quantum device and systems; frontier materials by molecular beam epitaxy; photonics and energy
@@ -76,7 +79,5 @@ Chee Wei Wong,Nonlinear optics; quantum optics; ultrafast optics; precision meas
 Jason C. S. Woo,Solid state electronics; CMOS and bipolar device/circuit optimization; novel device design; modeling of integrated circuits; VLSI fabrication
 Eli Yablonovitch,Electronic devices; optoelectronics; high speed optical communications; optical antennas; solar photovoltaics; computational inverse electromagnetic design
 C. K. Ken Yang,High performance VLSI design; digital and mixed-signal circuit design
-Lin F. Yang,Machine Learning; Reinforcement Learning; Optimization; Big-data Algorithms; Control
 Kung Yao,Communications/telecommunications; collaborative signal processing; sensor system; wireless communication systems; VLSI and systolic algorithms
 Lixia Zhang,Internet architecture and protocol designs; security and resiliency of large-scale systems
-Yang Zhang,Human-computer interaction; sensing and interaction techniques; Internet of Things (IoT); digital health; accessibility
