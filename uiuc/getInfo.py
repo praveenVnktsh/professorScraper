@@ -25,5 +25,6 @@ with open('uiuc.csv', 'w') as f:
                         else:
                             if sub.name == 'h2':
                                 break
-
-            f.write(f"{'https://ece.illinois.edu/'+link['href']},{','.join(temp)}\n")
+            
+            if len(temp) > 0:
+                f.write(f"{'https://ece.illinois.edu/'+link['href']},{','.join(temp)}\n")
