@@ -27,4 +27,4 @@ with open('gatech.csv', 'w') as f:
                                 temp.extend(div.text.strip().split("\n")[1:]) 
                 
                 if len(temp) > 0:
-                    f.write(f"{'https://ece.illinois.edu/'+link['href']},{','.join(temp)}\n")
+                    f.write(f"{'https://ece.gatech.edu/'+link['href']},{','.join(temp)}\n")
