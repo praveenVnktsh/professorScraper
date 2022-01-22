@@ -3,7 +3,7 @@ import requests
 import re
 from tqdm import tqdm 
 
-html_page = requests.get('https://www.ece.gatech.edu/faculty-staff-directory?')
+html_page = requests.get('https://research.gatech.edu/robotics/faculty/core')
 soup = BeautifulSoup(html_page.text)
 links = []
 with open('gatech.csv', 'w') as f:
@@ -12,7 +12,7 @@ with open('gatech.csv', 'w') as f:
         if "/faculty-staff-directory/" in link['href']:
             next_link = links[i+1]
             if "mailto" in next_link["href"]:
-                html_page2 = requests.get("https://www.ece.gatech.edu"+link['href'])
+                html_page2 = requests.get("https://research.gatech.edu/"+link['href'])
                 soup2 = BeautifulSoup(html_page2.text) 
 
                 temp = []
@@ -22,7 +22,7 @@ with open('gatech.csv', 'w') as f:
 
                     if classs is not None:    
                         
-                        if "Research interests:" in div.text:
+                        if "Research Focus Areas:" in div.text:
                             if "field-name-field-research-interests" in classs:
                                 temp.extend(div.text.strip().split("\n")[1:]) 
                 
